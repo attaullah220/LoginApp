@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1090261438302",
+    "project_id": "loginapp-2dec7",
+    "storage_bucket": "loginapp-2dec7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090261438302:android:1828b9cb28bdc2522109cf",
+        "android_client_info": {
+          "package_name": "com.omgsol.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090261438302-krgbm55l8a9l0tqi53sql9n10qgsdmdd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEkB8SvWMZonuRUaniXPA0Ukq-jHQXaMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090261438302-krgbm55l8a9l0tqi53sql9n10qgsdmdd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
